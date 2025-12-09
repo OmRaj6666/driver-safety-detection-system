@@ -131,7 +131,7 @@ Then → trigger phone alert
 
 Uses platform-specific TTS or beeps.
 
-PythonProject/
+
 <img width="439" height="185" alt="Screenshot 2025-12-09 at 7 46 48 PM" src="https://github.com/user-attachments/assets/d93f7086-5cb6-46df-8b16-c55f74cea63a" />
 
 
