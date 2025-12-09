@@ -132,21 +132,12 @@ Then → trigger phone alert
 Uses platform-specific TTS or beeps.
 
 PythonProject/
-│
-├── .venv/                             # Virtual environment (auto-created)
-│   ├── bin/
-│   ├── lib/
-│   ├── pyvenv.cfg
-│   └── ...
-│
-├── drowsiness_dlib.py                 # Main driver monitoring script
-├── shape_predictor_68_face_landmarks.dat   # Dlib facial landmark model
-│
-└── .gitignore                         # Git ignore rules
+<img width="439" height="185" alt="Screenshot 2025-12-09 at 7 46 48 PM" src="https://github.com/user-attachments/assets/d93f7086-5cb6-46df-8b16-c55f74cea63a" />
+
 
 ⚙️ Installation
 1️⃣ Clone the repository
-git clone https://github.com/your-username/driver-safety-system.git
+git clone https://github.com/OmRaj6666/driver-safety-detection-system.git
 cd driver-safety-system
 
 2️⃣ Install dependencies
