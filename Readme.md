@@ -166,13 +166,6 @@ python driver_monitor.py
 
 Press Q to quit.
 
-🖼 Screenshots
-
-(Add screenshots here)
-
-Example:
-
-Drowsiness Alert	Phone Detection
 
 	
 🚀 Future Improvements
@@ -185,10 +178,6 @@ Deep learning–based eye state classifier
 
 Integration with IoT (send alert to cloud)
 
-💼 Why Recruiters Will Love This Project
-✔ Solves a real-world safety problem
-✔ Uses multiple AI techniques in one system
-✔ Shows strong understanding of:
 
 Computer Vision
 
