@@ -37,8 +37,6 @@ Installation
 
 Run the Project
 
-Screenshots
-
 Future Improvements
 
 Why Recruiters Will Love This Project
