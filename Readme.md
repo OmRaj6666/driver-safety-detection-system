@@ -135,7 +135,10 @@ Uses platform-specific TTS or beeps.
 <img width="439" height="185" alt="Screenshot 2025-12-09 at 7 46 48 PM" src="https://github.com/user-attachments/assets/d93f7086-5cb6-46df-8b16-c55f74cea63a" />
 
 
-⚙️ Installation
+
+⚙️ Architecture 
+<img width="555" height="466" alt="Screenshot 2025-12-10 at 11 45 48 AM" src="https://github.com/user-attachments/assets/d080cb3b-47ce-45b5-a5c9-831560f9d0ba" />
+
 1️⃣ Clone the repository
 git clone https://github.com/OmRaj6666/driver-safety-detection-system.git
 cd driver-safety-system
